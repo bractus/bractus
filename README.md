@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+
+AI 🤖 and Data Engineering 🤓
+
+- 🌱 I’m currently learning ...
+
+English 🇺🇸 and Spanish 🇪🇸
+
+- ⚡ Fun fact: ...
+
+I'm also a drummer 🥁 and a cook 👨🏻‍🍳.
+
+
+  
 <!--
 **bractus/bractus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
